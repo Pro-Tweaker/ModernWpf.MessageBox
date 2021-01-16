@@ -8,7 +8,6 @@
         mc:Ignorable="d"
         Title="MessageBox"
         SizeToContent="WidthAndHeight"
-        WindowStyle="ToolWindow"
         ResizeMode="NoResize"
         WindowStartupLocation="CenterOwner"
         ui:WindowHelper.UseModernWindowStyle="True">
